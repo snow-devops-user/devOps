@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ritm_number" label="RITM Number" language="en" table="x_382000_integrate_variable_based_reporting">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ritm_number</element>
+            <help/>
+            <hint/>
+            <label>RITM Number</label>
+            <language>en</language>
+            <name>x_382000_integrate_variable_based_reporting</name>
+            <plural>RITM Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-23 10:59:39</sys_created_on>
+            <sys_id>5a66847ddbfa9010b65ff26b689619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RITM Number</sys_name>
+            <sys_package display_value="Integration Framwork" source="x_382000_integrate">6cf404f9dbfa9010b65ff26b68961949</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Framwork">6cf404f9dbfa9010b65ff26b68961949</sys_scope>
+            <sys_update_name>sys_documentation_x_382000_integrate_variable_based_reporting_ritm_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-23 10:59:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
