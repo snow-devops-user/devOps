@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-23 10:59:38</sys_created_on>
-        <sys_id>5a66847ddbfa9010b65ff26b689619b4</sys_id>
+        <sys_id>7b0658fddb3e9010b65ff26b689619a4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_382000_integrate_variable_based_reporting</sys_name>
-        <sys_package display_value="Integration Framwork" source="x_382000_integrate">6cf404f9dbfa9010b65ff26b68961949</sys_package>
+        <sys_package display_value="Reporting Application" source="x_382000_integrate">6cf404f9dbfa9010b65ff26b68961949</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Integration Framwork">6cf404f9dbfa9010b65ff26b68961949</sys_scope>
-        <sys_update_name>ua_table_licensing_config_5a66847ddbfa9010b65ff26b689619b4</sys_update_name>
+        <sys_scope display_value="Reporting Application">6cf404f9dbfa9010b65ff26b68961949</sys_scope>
+        <sys_update_name>ua_table_licensing_config_7b0658fddb3e9010b65ff26b689619a4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-23 10:59:38</sys_updated_on>
     </ua_table_licensing_config>
